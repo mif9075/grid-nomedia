@@ -1,2 +1,2 @@
-# grid-nomedia
-Grid Layout without Media Query
+# flexbox_resume
+Flexbox and Media Queries Resume Project
